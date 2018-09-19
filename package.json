@@ -1,5 +1,5 @@
 {
-  "name": "ably-react-native",
+  "name": "@outfix/ably-react-native",
   "description": "React Native wrapper for the JavaScript realtime client library for Ably.io, the realtime messaging service",
   "version": "1.0.0",
   "dependencies": {
