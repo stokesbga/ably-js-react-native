@@ -1,7 +1,7 @@
 {
   "name": "@outfix/react-native-ably",
   "description": "React Native wrapper for the JavaScript realtime client library for Ably.io, the realtime messaging service",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "dependencies": {
     "ably": "@outfix/ably@1.1.0",
     "react-native-randombytes": "git+https://github.com/ably-forks/react-native-randombytes.git"
